@@ -1,19 +1,19 @@
 ﻿
 ![alt text](house.jpg)
 
-### USA House Price Prediction  
+## <p style="color: orange;">USA House Price Prediction</p>
 
 This repository provides a machine learning-based approach to predicting real estate prices in USA using a dataset containing various property features. The project involves comprehensive data exploration, visualization, preprocessing, model training, and evaluation, culminating in a high-accuracy prediction model.
 
 ---
 
-##  **Project Overview**  
+##  <p style="color: orange;">**Project Overview**  </p>
 
 This project aims to predict property prices in USA's real estate market by leveraging advanced machine learning techniques and a dataset rich in diverse property attributes. By exploring relationships between features like Average Area Income, Average House Age in the Area, and Avgerage Area Number of Bedrooms, this project delivers a predictive model with significant accuracy, aiding stakeholders in making informed decisions.  
 
 ---
 
-##  **Key Features**  
+##  <p style="color: orange;">**Key Features**</p>  
 
 - **Comprehensive EDA**: Visualized trends and relationships, such as Average area Income, Area Population, and Price Distribution.  
 - **Data Preprocessing**: Outlier removal.  
@@ -23,7 +23,7 @@ This project aims to predict property prices in USA's real estate market by leve
 
 ---
 
-##  **Technical Highlights**  
+##  <p style="color: orange;">**Technical Highlights**  </p>
 
 - **Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.  
 - **Data Preprocessing**:  
@@ -35,7 +35,7 @@ This project aims to predict property prices in USA's real estate market by leve
 
 ---
 
-##  **Purpose and Applications**  
+##  <p style="color: orange;">**Purpose and Applications**  </p>
 
 This project is designed to:  
 - Provide accurate property price predictions for USA's real estate market.  
@@ -43,13 +43,13 @@ This project is designed to:
 - Lay the foundation for incorporating external market factors in future developments.  
 
 ---
-##  **Dataset** 
+## <p style="color: orange;"> **Dataset** </p>
 
 Dataset Link - https://www.kaggle.com/code/dibkb9/usa-housing
 
 ---
 
-##  **Installation**  
+##  <p style="color: orange;">**Installation**  </p>
 
 1. **Clone the repository**  
    ```bash  
@@ -62,7 +62,7 @@ Dataset Link - https://www.kaggle.com/code/dibkb9/usa-housing
 
 ---
 
-##  **Contributing**  
+##  <p style="color: orange;">**Contributing**  </p>
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
