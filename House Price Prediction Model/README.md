@@ -1,7 +1,7 @@
 ﻿
 ![alt text](house.jpg)
 
-## <p style="color: orange;">USA House Price Prediction</p>
+## <font color="orange;">USA House Price Prediction</font>
 
 This repository provides a machine learning-based approach to predicting real estate prices in USA using a dataset containing various property features. The project involves comprehensive data exploration, visualization, preprocessing, model training, and evaluation, culminating in a high-accuracy prediction model.
 
