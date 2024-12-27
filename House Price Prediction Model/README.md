@@ -53,8 +53,8 @@ Dataset Link - https://www.kaggle.com/code/dibkb9/usa-housing
 
 1. **Clone the repository**  
    ```bash  
-   git clone https://github.com/Code1235/Machine-Learning-Projects/House-Price-Prediction.git  
-   cd House-Price-Prediction 
+   git clone https://github.com/Code1235/Machine-Learning-Projects.git 
+   cd House Price Prediction Model
    ```  
 
 2. **Run the notebook**  
