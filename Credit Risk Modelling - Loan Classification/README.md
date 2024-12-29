@@ -1,3 +1,8 @@
+
+
+![alt text](0_t1-KWImAActqe79N.webp)
+
+
 <h1 style="font-weight: bold;">Loan Classification Model</h1>
 This repository contains a machine learning model for predicting loan approval based on various applicant features. The goal is to classify whether a loan application will be approved or not, using historical data about loan applicants.
 
@@ -8,7 +13,7 @@ The Loan Classification Model uses a dataset containing features like applicant 
 
 ---
 
-<h1 style="font-weight: bold;">Table of Contents<h1>
+<h1 style="font-weight: bold;">Table of Contents</h1>
 
 - Features
 - Model
@@ -36,7 +41,7 @@ Splitting the dataset into training and testing sets
 
 ---
 
-<h1 style="font-weight: bold;">Model<h1>
+<h1 style="font-weight: bold;">Model</h1>
 The model uses various machine learning algorithms to predict the loan approval status:
 
 - Logistic Regression: A basic linear model to predict binary outcomes.
