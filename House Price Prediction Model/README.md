@@ -54,11 +54,11 @@ Dataset Link - https://www.kaggle.com/code/dibkb9/usa-housing
 1. **Clone the repository**  
    ```bash  
    git clone https://github.com/Code1235/Machine-Learning-Projects.git 
-   cd House Price Prediction Model
+   cd Machine Learning Projects
    ```  
 
 2. **Run the notebook**  
-   Open the `House-Price-Prediction.ipynb` file in Jupyter Notebook or any compatible IDE.  
+   Open the House Price Prediction Model Folder then open `House-Price-Prediction.ipynb` file in Jupyter Notebook or any compatible IDE.  
 
 ---
 
