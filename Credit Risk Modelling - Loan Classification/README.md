@@ -23,12 +23,12 @@ The Loan Classification Model uses a dataset containing features like applicant 
 ---
 
 <h1 style="font-weight: bold;">Required Libraries</h1>
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-- matplotlib
-- seaborn
+🖋️ pandas <br>
+🖋️ numpy <br>
+🖋️ scikit-learn <br>
+🖋️ xgboost <br>
+🖋️ matplotlib <br>
+🖋️ seaborn <br>
 
 ---
 
