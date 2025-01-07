@@ -59,15 +59,7 @@ git clone https://github.com/Code1235/Machine-Learning-Projects
 cd Movies-Recommendation-System
 ```
 
-<br>
-2.Install the required Python libraries:<br><br>
-
-```bash
-pip install -r requirements.txt
-```
-<br>
-
-3.Ensure the following files are in your project directory:<br><br>
+2.Ensure the following files are in your project directory:<br><br>
 
 `movie_list_update.pkl`: Contains preprocessed movie data.<br><br>
 
