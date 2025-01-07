@@ -8,7 +8,8 @@ Welcome to the Movie Recommendation System! This project uses Machine Learning t
 
 ---
 
-Explore my site Here [Visit](https://movie-recommendation-system-hpwawwnergnkwqk4ajdnkb.streamlit.app/)
+## Explore my site Here:
+[Visit](https://movie-recommendation-system-hpwawwnergnkwqk4ajdnkb.streamlit.app/)
 
 ---
 
