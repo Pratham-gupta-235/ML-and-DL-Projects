@@ -91,7 +91,7 @@ The recommendation system uses the following approach: 🧠🔍🎞️<br><br>
 
 - Computes the cosine similarity with other movies.<br><br>
 
-- Retrieves the top 5 similar movies and their poster links.<br><br>
+- Retrieves the top 7 similar movies and their poster links.<br><br>
 
 ### Example Output:
 
@@ -106,6 +106,10 @@ Harry Potter and the Half-Blood Prince	<br><br>
 Thor: Ragnarok	<br><br>
 
 Harry Potter and the Sorcerer's Stone <br><br>
+
+The Lord of the Rings: The Fellowship of the Ring <br><br>
+
+Harry Potter and the Goblet of Fire <br><br>
 
 ---
 
