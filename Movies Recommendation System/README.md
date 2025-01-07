@@ -117,7 +117,6 @@ Harry Potter and the Sorcerer's Stone <br><br>
 |-- preprocessing.ipynb     # Processing movie data file
 |-- README.md               # Project documentation
 |-- similarity.pkl          # Similarity matrix
-|-- requirements.txt        # List of dependencies
 ```
 
 ---
