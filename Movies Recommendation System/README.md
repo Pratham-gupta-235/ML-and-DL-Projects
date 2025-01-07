@@ -97,19 +97,21 @@ The recommendation system uses the following approach: 🧠🔍🎞️<br><br>
 
 For the input movie "Harry Potter and the Deathly Hallows: Part 1", the recommendations might include: 🌀🎥🎭<br><br>
 
-Harry Potter and the Deathly Hallows: Part 2<br><br>
+- Harry Potter and the Deathly Hallows: Part 2<br><br>
 
-Harry Potter and the Prisoner of Azkaban
+- Harry Potter and the Prisoner of Azkaban
 <br><br>
-Harry Potter and the Half-Blood Prince	<br><br>
 
-Thor: Ragnarok	<br><br>
+- Harry Potter and the Half-Blood Prince
+<br><br>
 
-Harry Potter and the Sorcerer's Stone <br><br>
+- Thor: Ragnarok	<br><br>
 
-The Lord of the Rings: The Fellowship of the Ring <br><br>
+- Harry Potter and the Sorcerer's Stone <br><br>
 
-Harry Potter and the Goblet of Fire <br><br>
+- The Lord of the Rings: The Fellowship of the Ring <br><br>
+
+- Harry Potter and the Goblet of Fire <br><br>
 
 ---
 
