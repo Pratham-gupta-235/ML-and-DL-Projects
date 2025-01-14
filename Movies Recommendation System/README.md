@@ -8,6 +8,10 @@ Welcome to the Movie Recommendation System! This project uses Machine Learning t
 
 ---
 
+## Preview:
+
+<video controls src="Screen Recording 2025-01-07 142012.mp4" title="Title"></video>
+
 Explore my site Here 👉🏻 : [Visit](https://movie-recommendation-system-hpwawwnergnkwqk4ajdnkb.streamlit.app/)
 
 ---
