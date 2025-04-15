@@ -83,10 +83,5 @@ This repository is licensed under the [MIT License](LICENSE).
 *Machine Learning Enthusiast | Data Science Explorer*
 
 **Contant:**
-<a href="https://www.linkedin.com/in/pratham-gupta-07b771326/" target="_blank">
-  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" />
-</a>
-<a href="mailto:prathamgupta00715.com">
-  <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30" />
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-gupta-07b771326/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prathamgupta00715.com)
