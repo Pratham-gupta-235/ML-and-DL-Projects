@@ -83,5 +83,10 @@ This repository is licensed under the [MIT License](LICENSE).
 *Machine Learning Enthusiast | Data Science Explorer*
 
 **Contant:**
-[Linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandlogos.net%2Flinkedin-icon-vector-download-89492.html&psig=AOvVaw2gf0ss9JAyRBaoFY-HeFqu&ust=1744818027957000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiJ-Omv2owDFQAAAAAdAAAAABAE)
-[Email](prathamgupta00715@gmail.com)
+<a href="https://www.linkedin.com/in/pratham-gupta-07b771326/" target="_blank">
+  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" />
+</a>
+<a href="mailto:prathamgupta00715.com">
+  <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30" />
+</a>
+
