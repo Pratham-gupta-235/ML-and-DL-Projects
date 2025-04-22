@@ -4,8 +4,159 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wine Quality Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000;
+            margin: 0;
+            padding: 0;
+            color: #ffffff;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #e60023;
+            margin-bottom: 30px;
+        }
+        
+        .form-group {
+            margin: 15px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #333;
+            color: white;
+        }
+        
+        button {
+            background-color: #e60023;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            display: block;
+            margin: 20px auto;
+            transition: all 0.3s ease;
+        }
+        
+        button:hover {
+            background-color: #430202;
+        }
+        
+        .result {
+            text-align: center;
+            font-size: 20px;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: rgba(230, 0, 35, 0.2);
+            border-radius: 4px;
+        }
+        
+        .wine-image {
+            width: 100%;
+            height: auto;
+            max-width: 300px;
+            margin: 0 auto 30px;
+            display: block;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+        }
+    </style>
 </head>
 <body>
-    
+    <div class="container">
+        <h1>Wine Quality Prediction</h1>
+        <img src="https://www.coravin.dk/cdn/shop/articles/AdobeStock_451146882_c67abea8-b0f0-4357-aba2-35f409370f5a.jpg?v=1732041951&width=1080" alt="Wine" class="wine-image">
+        
+        <form action="{{ url_for('predict') }}" method="post">
+            <div class="features">
+                <div class="form-group">
+                    <label for="fixed_acidity">Fixed Acidity</label>
+                    <input type="number" step="0.01" id="fixed_acidity" name="fixed_acidity" placeholder="Enter value (e.g. 7.4)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="volatile_acidity">Volatile Acidity</label>
+                    <input type="number" step="0.01" id="volatile_acidity" name="volatile_acidity" placeholder="Enter value (e.g. 0.7)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="citric_acid">Citric Acid</label>
+                    <input type="number" step="0.01" id="citric_acid" name="citric_acid" placeholder="Enter value (e.g. 0.0)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="residual_sugar">Residual Sugar</label>
+                    <input type="number" step="0.01" id="residual_sugar" name="residual_sugar" placeholder="Enter value (e.g. 1.9)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="chlorides">Chlorides</label>
+                    <input type="number" step="0.001" id="chlorides" name="chlorides" placeholder="Enter value (e.g. 0.076)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="free_sulfur_dioxide">Free Sulfur Dioxide</label>
+                    <input type="number" step="0.1" id="free_sulfur_dioxide" name="free_sulfur_dioxide" placeholder="Enter value (e.g. 11)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="total_sulfur_dioxide">Total Sulfur Dioxide</label>
+                    <input type="number" step="0.1" id="total_sulfur_dioxide" name="total_sulfur_dioxide" placeholder="Enter value (e.g. 34)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="density">Density</label>
+                    <input type="number" step="0.0001" id="density" name="density" placeholder="Enter value (e.g. 0.9978)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="pH">pH</label>
+                    <input type="number" step="0.01" id="pH" name="pH" placeholder="Enter value (e.g. 3.51)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="sulphates">Sulphates</label>
+                    <input type="number" step="0.01" id="sulphates" name="sulphates" placeholder="Enter value (e.g. 0.56)" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="alcohol">Alcohol</label>
+                    <input type="number" step="0.1" id="alcohol" name="alcohol" placeholder="Enter value (e.g. 9.4)" required>
+                </div>
+                
+            </div>
+            
+            <button type="submit">Predict Quality</button>
+        </form>
+        
+        {% if prediction_text %}
+        <div class="result">
+            {{ prediction_text }}
+        </div>
+        {% endif %}
+    </div>
 </body>
 </html>
