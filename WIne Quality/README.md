@@ -1,4 +1,5 @@
 # Wine Quality Prediction
+![alt](https://www.coravin.dk/cdn/shop/articles/AdobeStock_451146882_c67abea8-b0f0-4357-aba2-35f409370f5a.jpg)
 
 ## Overview
 This project focuses on predicting wine quality based on various physicochemical properties. Using machine learning techniques, wines are classified into different quality categories to support decision-making in the wine production industry.
