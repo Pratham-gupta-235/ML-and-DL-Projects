@@ -11,7 +11,6 @@ Projects are organized in separate folders, each with its own detailed README an
 - [Project List](#project-list)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -19,22 +18,10 @@ Projects are organized in separate folders, each with its own detailed README an
 ## Project List
 
 ### 1. [Credit Risk Modelling - Loan Classification](./Credit%20Risk%20Modelling%20-%20Loan%20Classification/)
-- **Description:** Predict loan approval using features such as applicant income, credit history, and loan amount.
-- **Techniques:** Logistic Regression, Decision Trees, AdaBoost, KNN, XGBoost.
-- **Libraries:** pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn.
-- **Read more:** [Project README](./Credit%20Risk%20Modelling%20-%20Loan%20Classification/README.md)
-
 ### 2. [House Price Prediction Model](./House%20Price%20Prediction%20Model/)
-- **Description:** Predict real estate prices in the USA, exploring relationships between various property features and prices.
-- **Techniques:** Linear Regression, Random Forest, Gradient Boosting, XGBoost.
-- **Performance:** R² score of ~91% with Linear Regression.
-- **Read more:** [Project README](./House%20Price%20Prediction%20Model/README.md)
-
 ### 3. [Movies Recommendation System](./Movies%20Recommendation%20System/)
-- **Description:** Suggest movies based on user input using content-based filtering and cosine similarity.
-- **Techniques:** Content-based filtering, cosine similarity, Streamlit web app.
-- **Read more:** [Project README](./Movies%20Recommendation%20System/README.md)
-- **Demo:** [Try the web app](https://movie-recommendation-system-hpwawwnergnkwqk4ajdnkb.streamlit.app/)
+### 4. [Wine Quality Prediction)[https://github.com/Pratham-gupta-235/Machine-Learning-Projects/tree/main/WIne%20Quality]
+### 5. [Alzhemer's Disease Prediction)[https://github.com/Pratham-gupta-235/Machine-Learning-Projects/tree/main/alzheimers_disease_prediction]
 
 ---
 
