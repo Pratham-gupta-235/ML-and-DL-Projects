@@ -20,8 +20,8 @@ Projects are organized in separate folders, each with its own detailed README an
 1. [Credit Risk Modelling - Loan Classification](./Credit%20Risk%20Modelling%20-%20Loan%20Classification/)
 2. [House Price Prediction Model](./House%20Price%20Prediction%20Model/)
 3. [Movies Recommendation System](./Movies%20Recommendation%20System/)
-4. [Wine Quality Prediction](https://github.com/Pratham-gupta-235/Machine-Learning-Projects/tree/main/WIne%20Quality)
-5. [Alzhemer's Disease Prediction](https://github.com/Pratham-gupta-235/Machine-Learning-Projects/tree/main/alzheimers_disease_prediction)
+4. [Wine Quality Prediction](https://github.com/Pratham-gupta-235/Machine-Learning-Projects/tree/main/Wine%20Quality%20Prediction)
+5. [Music Popularity Prediction](https://github.com/Pratham-gupta-235/Machine-Learning-Projects/tree/main/Music%20Popularity%20Prediction)
 ---
 
 ## Getting Started
