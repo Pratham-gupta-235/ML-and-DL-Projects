@@ -1,5 +1,7 @@
 # Crop Recommendation System
 
+![alt text](download.jpeg)
+
 This project is a machine learning-based Crop Recommendation System that predicts the most suitable crop to grow based on various environmental and soil parameters. The system uses a Random Forest Classifier trained on a dataset containing features such as Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall.
 
 ## Features
