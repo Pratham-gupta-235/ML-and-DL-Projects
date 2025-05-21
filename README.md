@@ -22,6 +22,7 @@ Projects are organized in separate folders, each with its own detailed README an
 3. [Movies Recommendation System](./Movies%20Recommendation%20System/)
 4. [Wine Quality Prediction](https://github.com/Pratham-gupta-235/Machine-Learning-Projects/tree/main/Wine%20Quality%20Prediction)
 5. [Music Popularity Prediction](https://github.com/Pratham-gupta-235/Machine-Learning-Projects/tree/main/Music%20Popularity%20Prediction)
+6. [Text Emotion Classification](https://github.com/Pratham-gupta-235/Machine-Learning-Projects/tree/main/Text%20Emotion%20Classification)
 ---
 
 ## Getting Started
