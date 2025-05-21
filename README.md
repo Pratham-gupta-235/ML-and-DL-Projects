@@ -8,7 +8,6 @@ Projects are organized in separate folders, each with its own detailed README an
 
 ## Table of Contents
 
-- [Project List](#project-list)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [License](#license)
