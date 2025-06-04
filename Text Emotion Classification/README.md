@@ -30,6 +30,7 @@ The aim is to classify given text messages into emotions like `anger`, `joy`, `s
 * TensorFlow / Keras
 * Pandas / NumPy
 * Scikit-learn (for label encoding, train-test split)
+* Streamlit (for Web version)
 
 ---
 
@@ -94,7 +95,7 @@ cd Machine-Learning-Projects/Text Emotion Classification
 ### 2. Install Requirements
 
 ```bash
-pip install tensorflow pandas scikit-learn
+pip install tensorflow pandas scikit-learn streamlit
 ```
 
 ### 3. Launch Notebook
